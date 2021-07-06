@@ -1,2 +1,3 @@
-# c-
-c++ programs practice
+# c ++
+This repositorty is a collection of basic c++ programs learned  by me.
+I created this to track my practice History...
