@@ -6,4 +6,5 @@ int main(){
     std::cout << "Hello second line! ";//here this line will not go down because /n is not used.
     std::cout << "Hello third line! \n";
     cout << "this line is printed by using global declaration of std.\n";
+system("pause>0");
 }
