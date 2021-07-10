@@ -1,0 +1,86 @@
+Bjarne Stroustrup- made c++
+in 1983
+inspired by Simula67
+
+*****************************************
+*****************************************
+
+super set of c++
+c follows top down approch of programming// this means that what is the approch of building the program // first we make the main function and decides the flow of program , where as the functionality of the function is decided after that.
+c only follows procedure oriented guidelines.
+
+c++ follows bottom up approch //first we do the detailing means define all the functionality and then assembling them to decide flow.
+c++ can follow procedure oriented guide lines as well as the object oriented guidelines.
+c++ supports procedure oriented, object oriented and genric programing
+*****************************************
+*****************************************
+
+Object Oriented programming
+
+object- 
+
+*)object is a runtime entity//the memory will be allocated to object only.(object is a instance of class)
+
+class-Blueprint of Object.(creating a class is creating a new user defined datatype.)
+
+*)how much variable will be there in object
+
+*)what values a object can contain all and size of object thing (structure of object will be defined in it // Class is a description of object's property set and set of operations.)
+
+*)which variable or function the object will contain that will be defined in class.
+
+Encapsulation - grouping of variables as well as ***functions*** related to one object or entity //grouping of functions is not possible in c
+ 
+
+************************************************************************************************************************************************************************************************************************
+************************************************************************************************************************************************************************************************************************
+
+__IDENTIFIERS__
+
+CONSTANT-ANY INFORMATION IS CALLED CONSTANT
+DATA=INFORMATION=CONSTANT
+
+Types Of Constants
+
+*)Primary
+
+Integer   int // -infinite to +infinite  
+Real      float // -decimal infinite to +decimal infinite
+Charecter  char// -any symbol can be a character constant only and only when its length is 1 and enclosed by '' single quotes.
+
+*)Secondary
+
+Array  - collection of 
+String - collection of charecters
+Pointer- 
+Union
+Structure
+Ennumaration
+
+
+*************************************************************************************
+*************************************************************************************
+Variables - variables are the name of memory locations where we store data.
+
+allowed- numbers , alphabet  and underscore 
+not allowed- can not start by numbers
+
+keywords
+auto doubble int struct asm catch private
+brek else long switch class public 
+case enum register typedef class protected
+char extern return Uniondelete template
+constant float sort usigned friend this
+continue for signed void inline throw
+default goto size of volatile new try
+do if static while opertor virtual
+
+********************************
+
+data types
+
+int    2bytes 
+float  4bytes
+char   1bytes
+double 8bytes
+void    bytes
